@@ -1,0 +1,174 @@
+.banner img {
+  width: 960px;
+  height: 480px;
+}
+
+.content { 
+  margin-left: 10px; 
+}
+
+.content a {
+  margin-left: 10px; 
+}
+
+.contenthead h3 {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.enquiryform {
+  background-color: #f2f2f2;
+}
+
+.enquiryform button {
+  background-color: #00e699;
+  color: white;
+  padding: 10px 100px;
+
+}
+
+.enquiryform input {
+  margin-top: 2%;
+  width: 25%;
+  border-width: 1%;
+}
+
+.enquiryform li{
+  display: inline;
+  margin-left: 5%;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 10px;
+  width: 10px;
+  height: 10px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-youtube {
+  background: red;
+  color: white;
+}
+
+.footer a {
+  margin-top: 20%;
+}
+
+header {
+  overflow: hidden;
+  background : #e6ffee;
+}
+
+header h1 {
+  padding-top: 1%;  
+}
+
+li a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+li a:hover {
+  color: black;
+}
+
+nav li{
+  display: inline;
+  font-size: 15px;
+}
+
+nav ul {
+  margin-top: 12%;
+}
+
+textarea {
+  width: 90%;
+  height: 70%;
+  margin-left: 5%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
+.trekblogs h4 {
+  padding-left: 10%;
+  margin-bottom: 5%;
+}
+
+.trekblogs ul {
+  list-style: none;
+}
+
+.scroll{
+  height: 600px;
+  float:right;
+  overflow-y:scroll;
+  overflow-x: hidden;
+}
+
+.userblog button {
+  margin-left: 5%;
+  background-color: #ffe6ff;
+}
+
+.wrap {
+  margin: auto;
+  overflow: hidden;
+  font-family: 'EB Garamond', serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
